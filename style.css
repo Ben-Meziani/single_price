@@ -41,7 +41,8 @@ body{
 }
 
 .bottom-left .btn{
-   background: #bfdf32
+   background: #bfdf32;
+   color: white!important;
 }
 
 h1{
@@ -65,6 +66,8 @@ strong{
 .text1{
     width: 80%;
 }
+
+
 
 @media screen and (max-width: 900px) {
 
